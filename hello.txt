@@ -1,4 +1,3 @@
 Hello Git
 this is learning for preparation 
-this is 3rd line
 
